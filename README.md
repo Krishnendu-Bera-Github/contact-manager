@@ -1,6 +1,6 @@
 # contact-manager
 
-##Created an application where one can add contact information about any user and perform CRUD operations.
+#Created an application where one can add contact information about any user and perform CRUD operations.
 
 Step 1. Create a new folder
 Step 2. Keep both these files in that folder
