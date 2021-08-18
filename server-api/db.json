@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "3330e2a7-3585-4f6e-870a-0a7ade9ab10c",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "419bb1fe-6173-45c8-95d5-d7e1cf0c94a6",
+      "name": "Peter Smith",
+      "email": "petersmith21@hotmail.com"
+    }
+  ]
+}
