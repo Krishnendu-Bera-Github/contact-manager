@@ -1,8 +1,8 @@
 # contact-manager
 
-##Created an React application where one can add contact information about any user and perform CRUD operations.
+Created a React application where one can add contact information about any user and perform CRUD operations.
 
-#Few Steps to run the project
+#Few Steps to run the project :-
 Step 1. Create a new folder
 Step 2. Keep both these files in that folder
 Step 3. Now build node modules
